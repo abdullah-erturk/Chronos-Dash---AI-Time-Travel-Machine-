@@ -52,7 +52,7 @@ Yolculuk tamamlandığında alt kısımda beliren butonlarla;
 *   Hayatta Kalma Rehberi alabilirsiniz.
 
 ## ⚠️ Dil Desteği Hakkında Önemli Not
-> Bu projenin arka planındaki yapay zeka (Prompt) mimarisi Türkçe olarak kurgulanmıştır. Bu nedenle doğal dil üretimi ve karakter sohbetleri varsayılan olarak Türkçe çalışmaktadır. Sisteme entegre edilen **Google Translate widget'ı** sayesinde tüm içerikleri anında kendi dilinize çevirebilirsiniz.
+> Bu projenin arka planındaki yapay zeka (Prompt) mimarisi Türkçe olarak kurgulanmıştır. Bu nedenle doğal dil üretimi ve karakter sohbetleri varsayılan olarak Türkçe çalışmaktadır. Sisteme entegre edilen **Google Translate widget'ı** sayesinde tüm içerikleri anında farklı dillere çevirebilirsiniz.
 
 ## 💻 Teknolojiler
 *   **HTML5, CSS3, Vanilla JavaScript** (Sıfır kütüphane)
@@ -106,7 +106,7 @@ Click the **"Listen"** button to have Gemini API's studio-quality narrator voice
 *   **Survival Guide:** Get tips for staying alive in that timeline.
 
 ## ⚠️ Language Support
-> The background AI architecture is built in Turkish. However, thanks to the integrated **Google Translate widget**, you can instantly translate all content into your preferred language.
+> The background AI architecture is built in Turkish. However, Thanks to the **Google Translate widget** integrated into the system, you can instantly translate all content into different languages.
 
 ## 💻 Tech Stack
 *   **HTML5, CSS3, Vanilla JavaScript** (Zero libraries)
