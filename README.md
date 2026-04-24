@@ -123,5 +123,5 @@ Click the **"Listen"** button to have Gemini API's studio-quality narrator voice
 
 <p align="center">
   <b>Developed by Abdullah ERTÜRK</b><br>
-  <a href="https://erturk.netlify.app" target="_blank">erturk.netlify.app</a> | <a href="https://github.com/abdullah-erturk" target="_blank">github.com/abdullah-erturk</a>
+  <a href="https://erturk-dev.netlify.app" target="_blank">erturk-dev.netlify.app</a> | <a href="https://github.com/abdullah-erturk" target="_blank">github.com/abdullah-erturk</a>
 </p>
