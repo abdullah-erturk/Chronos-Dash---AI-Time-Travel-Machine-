@@ -19,7 +19,7 @@
 **Chronos Dash**, Google Gemini yapay zeka gücüyle çalışan, metin ve görsel üretimini harmanlayan interaktif bir web tabanlı zaman makinesi simülasyonudur. Kullanıcılar Dinozorlar çağından Siberpunk geleceğe kadar 12 farklı çağa seyahat edebilir, alternatif tarih senaryoları yaratabilir ve o dönemin NPC (yapay zeka karakterleri) ile sohbet edebilirler.
 
 ## 🚀 Canlı Sürümü Deneyin
-Bu projeyi kullanmak için şu adrese gidin: **<a href="https://gemini.google.com/share/2cbbf4e073b4" target="_blank">https://gemini.google.com/share/2cbbf4e073b4</a>**
+Bu projeyi kullanmak için şu adrese gidin: **<a href="erturk-dev.netlify.app/history" target="_blank">https://erturk-dev.netlify.app/history</a>**
 
 > [NOT]
 > Projeyi tam fonksiyonel kullanabilmek için **Google hesabınız ile oturum açmanız** gerekir.
@@ -74,7 +74,7 @@ Yolculuk tamamlandığında alt kısımda beliren butonlarla;
 **Chronos Dash** is an interactive, web-based time machine simulation powered by Google Gemini AI, blending text and image generation. Users can travel to 12 different eras ranging from the Age of Dinosaurs to a Cyberpunk future, create alternative history scenarios, and chat with AI-generated NPCs.
 
 ## 🚀 Try the Live Version
-To use this project, visit: **<a href="https://gemini.google.com/share/2cbbf4e073b4" target="_blank">https://gemini.google.com/share/2cbbf4e073b4</a>**
+To use this project, visit: **<a href="erturk-dev.netlify.app/history" target="_blank">https://erturk-dev.netlify.app/history</a>**
 
 > [NOTE]
 > You need to **sign in with your Google account** to use the project.
